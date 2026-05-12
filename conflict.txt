@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Строка от fourth
+=======
+Строка от third
+>>>>>>> a104ef2f3e3940bf9477116fe7aa2bf01dde91dc
